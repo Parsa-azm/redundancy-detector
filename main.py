@@ -1,4 +1,4 @@
-from data.pull_request import PullRequest, Comparator
+from pull_request import PullRequest, Comparator
 
 
 def compare(repo, pr_num_1, pr_num_2):
@@ -34,5 +34,5 @@ def compute_duplications(file_path, threshold=0.5):
 
 
 if __name__ == "__main__":
-    compute_duplications('data/duplicated_pairs_1.txt', threshold=0.2)
-    compute_duplications('data/nonduplicated_pairs_1.txt', threshold=0.2)
+    compute_duplications('input/duplicated_pairs_1.txt', threshold=0.2)
+    compute_duplications('input/nonduplicated_pairs_1.txt', threshold=0.2)
