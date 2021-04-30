@@ -57,6 +57,8 @@ class PullRequest:
 
     @staticmethod
     def tokenize(text):
+        if not text:
+            return set()
         tokens = word_tokenize(text)
         tokens_set = {w for w in tokens if w not in sw}
         return tokens_set
