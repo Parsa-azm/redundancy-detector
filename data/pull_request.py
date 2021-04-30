@@ -9,12 +9,14 @@ from nltk.tokenize import word_tokenize
 
 git = Github()
 sw = stopwords.words('english')
+useless_keywords = {'for', 'type', 'len', 'length', 'this'}  # Could be completed
 
 
 class PullRequest:
     changed_files_names: set
     textual_tokens: set
     issue_ids: set
+    patch_added_words: set
 
     def __init__(self, repo, number):
         self.repo_name = repo
@@ -26,6 +28,27 @@ class PullRequest:
         files = self.pull_request.get_files()
         for file in files:
             self.changed_files_names.add(file.filename)
+
+    def set_added_words(self):
+        r = requests.get(self.pull_request.diff_url)
+        if r.status_code != 200:
+            return
+        added_lines_words = set()
+        deleted_lines_words = set()
+        lines = r.text.split("\n")
+        for line in lines:
+            tokens = set(re.findall(r"[\w']+", line))
+            discarded_tokens = useless_keywords
+            for token in tokens:
+                if len(token) < 2:
+                    discarded_tokens.add(token)
+            tokens = tokens.difference(discarded_tokens)
+            if line.startswith("+"):
+                added_lines_words.update(tokens)
+            if line.startswith("-"):
+                deleted_lines_words.update(tokens)
+
+        self.patch_added_words = added_lines_words.difference(deleted_lines_words)
 
     @staticmethod
     def tokenize(text):
@@ -57,6 +80,7 @@ class PullRequest:
             self.issue_ids.add(issue_link.split("/")[-1])
 
     def text_tokenize(self):
+        # TODO: Add commit messages too
         title_tokens = self.tokenize(self.pull_request.title)
         description_tokens = self.tokenize(self.pull_request.body)
         self.textual_tokens = title_tokens.union(description_tokens)
