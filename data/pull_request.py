@@ -177,9 +177,25 @@ class Comparator:
 
         return len(intersection) / len(union)
 
+    def compute_similarity_score(self):
+        max_possible_sim = 0
+        issue_similarity_score = 0
+        if self.issues_similarity == self.IssueSimilarity.HIGH_SIMILAR:
+            issue_similarity_score = 1
+        elif self.issues_similarity == self.IssueSimilarity.LOW_SIMILAR:
+            issue_similarity_score = 0.75
+        elif self.issues_similarity == self.IssueSimilarity.DISSIMILAR:
+            issue_similarity_score = 0
+        if self.issues_similarity != self.IssueSimilarity.UNKNOWN:
+            max_possible_sim += 1
+        max_possible_sim += 1 + 1 + 1  # For Files Similarity, Textual Similarity and Added Words Similarity
+        similarity = issue_similarity_score + self.files_similarity + self.textual_similarity + self.added_words_similarity
+        return float(similarity / max_possible_sim)
+
     def __str__(self):
         return f"Files Similarity: {self.files_similarity}\n" \
                f"Files Intersect: {self.files_intersect}\n" \
                f"Issues Similarity: {self.issues_similarity.name}\n" \
-               f"Textual (Title and Description) Similarity: {self.textual_similarity}\n"\
-               f"Added Words Similarity: {self.added_words_similarity}\n"
+               f"Textual (Title and Description) Similarity: {self.textual_similarity}\n" \
+               f"Added Words Similarity: {self.added_words_similarity}\n" \
+               f"Total Similarity: {self.compute_similarity_score()}"
