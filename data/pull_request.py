@@ -13,16 +13,19 @@ useless_keywords = {'for', 'type', 'len', 'length', 'this'}  # Could be complete
 
 
 class PullRequest:
-    changed_files_names: set
-    textual_tokens: set
-    issue_ids: set
-    patch_added_words: set
-
     def __init__(self, repo, number):
         self.repo_name = repo
         self.repo = git.get_repo(repo)
         self.pr_number = number
         self.pull_request = self.repo.get_pull(number)
+        self.changed_files_names = set()
+        self.textual_tokens = set()
+        self.issue_ids = set()
+        self.patch_added_words = set()
+        self.set_changed_files()
+        self.text_tokenize()
+        self.set_issues()
+        self.set_added_words()
 
     def set_changed_files(self):
         files = self.pull_request.get_files()
@@ -104,6 +107,9 @@ class Comparator:
     def __init__(self, pr1: "PullRequest", pr2: "PullRequest"):
         self.pr1 = pr1
         self.pr2 = pr2
+        self.compute_files_similarity()
+        self.compute_issues_similarity()
+        self.compute_textual_similarity()
 
     def compute_files_similarity(self):
         self.files_similarity = self.compute_jaccard(self.pr1.changed_files_names, self.pr2.changed_files_names)
@@ -129,6 +135,10 @@ class Comparator:
     @staticmethod
     def compute_tokens_similarity(tokens1, tokens2):
         all_tokens = tokens1.union(tokens2)
+        if len(tokens1) == 0 and len(tokens2) == 0:
+            return 0.2  # Just testing
+        if len(tokens1) == 0 or len(tokens2) == 0:
+            return 0
         l1 = []
         l2 = []
         for w in all_tokens:
@@ -163,3 +173,10 @@ class Comparator:
             union.add(element)
 
         return len(intersection) / len(union)
+
+    def __str__(self):
+        return f"Files Similarity: {self.files_similarity}\n" \
+               f"Files Intersect: {self.files_intersect}\n" \
+               f"Issues Similarity: {self.issues_similarity.name}\n" \
+               f"Textual (Title and Description) Similarity: {self.textual_similarity}\n"\
+               f"Added Words Similarity: {self.added_words_similarity}\n"
