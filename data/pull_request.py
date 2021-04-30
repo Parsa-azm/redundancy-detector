@@ -1,3 +1,4 @@
+import os
 import re
 from enum import Enum
 
@@ -7,7 +8,8 @@ from github import Github
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
-git = Github()
+github_token = os.getenv("GITHUB_TOKEN")
+git = Github(github_token)
 sw = stopwords.words('english')
 useless_keywords = {'for', 'type', 'len', 'length', 'this'}  # Could be completed
 
