@@ -63,16 +63,15 @@ class PullRequest:
 
     def set_issues(self):
         title_words = self.pull_request.title.split(" ")
-        counter = 0
-        # Simplest check I could do! just checking whether there is a numeric in first 3 words of the PR issue title or
-        # not. It will not be harmful if there exists a number other than issue id, since most probably that number will
+        # Simplest check I could do! just checking whether there is a numeric in the PR issue title or not.
+        # It will not be harmful if there exists a number other than issue id, since most probably that number will
         # not exist in other pr titles and if it does, there maybe a duplication too. As Simple as I Could!
         for word in title_words:
             if word.isnumeric():
                 self.issue_ids.add(word)
-            counter += 1
-            if counter > 3:
-                break
+                continue
+            if word[0:-1].isnumeric():  # Because of existence of ) or : at the end of number
+                self.issue_ids.add(word[0:-1])
 
         # Check for existence of GitHub Issue Tracker
         r = requests.get(f"https://github.com/{self.repo_name}/pull/{self.pr_number}")
@@ -80,6 +79,8 @@ class PullRequest:
             return
         soup = BeautifulSoup(r.text, 'html.parser')
         issue_form = soup.find("form", {"aria-label": re.compile('Link issues')})
+        if not issue_form:
+            return
         issues_links = [i["href"] for i in issue_form.find_all("a")]
         for issue_link in issues_links:
             self.issue_ids.add(issue_link.split("/")[-1])
@@ -121,8 +122,8 @@ class Comparator:
                 self.files_intersect += 1
 
     def compute_issues_similarity(self):
+        self.issues_similarity = self.IssueSimilarity.UNKNOWN
         if (not self.pr1.issue_ids) or (not self.pr2.issue_ids):
-            self.issues_similarity = self.IssueSimilarity.UNKNOWN
             return
 
         if self.pr1.issue_ids == self.pr2.issue_ids:
