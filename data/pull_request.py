@@ -1,4 +1,5 @@
 import re
+from enum import Enum
 
 import requests
 from bs4 import BeautifulSoup
@@ -67,6 +68,13 @@ class Comparator:
     files_similarity: float
     files_intersect: int
     textual_similarity: float
+    issues_similarity: "IssueSimilarity"
+
+    class IssueSimilarity(Enum):
+        UNKNOWN = 0  # At least one of the pull requests does not have an issue
+        HIGH_SIMILAR = 1  # All issues most be similar
+        LOW_SIMILAR = 2  # Just one similar issue is enough
+        DISSIMILAR = 3  # Not even one similar issue
 
     def __init__(self, pr1: "PullRequest", pr2: "PullRequest"):
         self.pr1 = pr1
@@ -78,6 +86,20 @@ class Comparator:
         for file in self.pr1.changed_files_names:
             if file in self.pr2.changed_files_names:
                 self.files_intersect += 1
+
+    def compute_issues_similarity(self):
+        if (not self.pr1.issue_ids) or (not self.pr2.issue_ids):
+            self.issues_similarity = self.IssueSimilarity.UNKNOWN
+            return
+
+        if self.pr1.issue_ids == self.pr2.issue_ids:
+            self.issues_similarity = self.IssueSimilarity.HIGH_SIMILAR
+            return
+
+        for issue in self.pr1.issue_ids:
+            if issue in self.pr2.issue_ids:
+                self.issues_similarity = self.IssueSimilarity.LOW_SIMILAR
+                return
 
     def compute_textual_similarity(self):
         all_tokens = self.pr1.textual_tokens.union(self.pr2.textual_tokens)
