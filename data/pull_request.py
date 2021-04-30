@@ -93,6 +93,7 @@ class Comparator:
     files_intersect: int
     textual_similarity: float
     issues_similarity: "IssueSimilarity"
+    added_words_similarity: float
 
     class IssueSimilarity(Enum):
         UNKNOWN = 0  # At least one of the pull requests does not have an issue
@@ -125,17 +126,17 @@ class Comparator:
                 self.issues_similarity = self.IssueSimilarity.LOW_SIMILAR
                 return
 
-    def compute_textual_similarity(self):
-        all_tokens = self.pr1.textual_tokens.union(self.pr2.textual_tokens)
+    @staticmethod
+    def compute_tokens_similarity(tokens1, tokens2):
+        all_tokens = tokens1.union(tokens2)
         l1 = []
         l2 = []
-
         for w in all_tokens:
-            if w in self.pr1.textual_tokens:
+            if w in tokens1:
                 l1.append(1)  # Replace with tf-idf
             else:
                 l1.append(0)
-            if w in self.pr2.textual_tokens:
+            if w in tokens2:
                 l2.append(1)
             else:
                 l2.append(0)
@@ -143,7 +144,12 @@ class Comparator:
         for i in range(len(all_tokens)):
             c += l1[i] * l2[i]
         cosine = c / float((sum(l1) * sum(l2)) ** 0.5)
-        self.textual_similarity = cosine
+        return cosine
+
+    def compute_textual_similarity(self):
+        self.textual_similarity = self.compute_tokens_similarity(self.pr1.textual_tokens, self.pr2.textual_tokens)
+        self.added_words_similarity = self.compute_tokens_similarity(self.pr1.patch_added_words,
+                                                                     self.pr2.patch_added_words)
 
     @staticmethod
     def compute_jaccard(first_set, second_set):
