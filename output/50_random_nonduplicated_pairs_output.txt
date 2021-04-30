@@ -1,0 +1,506 @@
+Similarities of Pull Request https://github.com/hashicorp/terraform/pull/1304 and Pull Request https://github.com/hashicorp/terraform/pull/15016
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.17739371879672478
+Added Words Similarity: 0.01698823971458752
+Total Similarity: 0.06479398617043743
+
+Similarities of Pull Request https://github.com/JuliaLang/julia/pull/25651 and Pull Request https://github.com/JuliaLang/julia/pull/17576
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.1091089451179962
+Added Words Similarity: 0
+Total Similarity: 0.036369648372665396
+
+Similarities of Pull Request https://github.com/django/django/pull/10161 and Pull Request https://github.com/django/django/pull/6917
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.21428571428571427
+Added Words Similarity: 0.0
+Total Similarity: 0.07142857142857142
+
+Similarities of Pull Request https://github.com/elastic/elasticsearch/pull/20207 and Pull Request https://github.com/elastic/elasticsearch/pull/30646
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.053300179088902604
+Added Words Similarity: 0.0
+Total Similarity: 0.017766726362967535
+
+Similarities of Pull Request https://github.com/django/django/pull/5171 and Pull Request https://github.com/django/django/pull/8133
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.09128709291752768
+Added Words Similarity: 0
+Total Similarity: 0.030429030972509225
+
+Similarities of Pull Request https://github.com/joomla/joomla-cms/pull/12557 and Pull Request https://github.com/joomla/joomla-cms/pull/11093
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.13584712216226488
+Added Words Similarity: 0
+Total Similarity: 0.0452823740540883
+
+Similarities of Pull Request https://github.com/django/django/pull/1147 and Pull Request https://github.com/django/django/pull/6929
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.0716114874039433
+Added Words Similarity: 0.07856742013183861
+Total Similarity: 0.05005963584526063
+
+Similarities of Pull Request https://github.com/elastic/elasticsearch/pull/26896 and Pull Request https://github.com/elastic/elasticsearch/pull/19023
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.1111111111111111
+Added Words Similarity: 0.0
+Total Similarity: 0.037037037037037035
+
+Similarities of Pull Request https://github.com/django/django/pull/9145 and Pull Request https://github.com/django/django/pull/8212
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.08703882797784893
+Added Words Similarity: 0
+Total Similarity: 0.029012942659282975
+
+Similarities of Pull Request https://github.com/cocos2d/cocos2d-x/pull/17051 and Pull Request https://github.com/cocos2d/cocos2d-x/pull/12603
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.0
+Added Words Similarity: 0
+Total Similarity: 0.0
+
+Similarities of Pull Request https://github.com/ceph/ceph/pull/5175 and Pull Request https://github.com/ceph/ceph/pull/9200
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.06350006350009525
+Added Words Similarity: 0.0
+Total Similarity: 0.021166687833365085
+
+Similarities of Pull Request https://github.com/emberjs/ember.js/pull/13618 and Pull Request https://github.com/emberjs/ember.js/pull/11774
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.116543309349613
+Added Words Similarity: 0
+Total Similarity: 0.03884776978320433
+
+Similarities of Pull Request https://github.com/cocos2d/cocos2d-x/pull/1796 and Pull Request https://github.com/cocos2d/cocos2d-x/pull/5307
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.08111071056538127
+Added Words Similarity: 0.0
+Total Similarity: 0.02703690352179376
+
+Similarities of Pull Request https://github.com/elastic/elasticsearch/pull/31133 and Pull Request https://github.com/elastic/elasticsearch/pull/14286
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.07662141663581955
+Added Words Similarity: 0.031068488300060003
+Total Similarity: 0.03589663497862652
+
+Similarities of Pull Request https://github.com/angular/angular.js/pull/15966 and Pull Request https://github.com/angular/angular.js/pull/14962
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.13076644524148537
+Added Words Similarity: 0.0
+Total Similarity: 0.04358881508049512
+
+Similarities of Pull Request https://github.com/ansible/ansible/pull/24769 and Pull Request https://github.com/ansible/ansible/pull/39266
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.5665588798583513
+Added Words Similarity: 0.0
+Total Similarity: 0.18885295995278376
+
+Similarities of Pull Request https://github.com/ansible/ansible/pull/27774 and Pull Request https://github.com/ansible/ansible/pull/18366
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.2620001293828119
+Added Words Similarity: 0.0
+Total Similarity: 0.0873333764609373
+
+Similarities of Pull Request https://github.com/cocos2d/cocos2d-x/pull/5834 and Pull Request https://github.com/cocos2d/cocos2d-x/pull/7997
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.23570226039551587
+Added Words Similarity: 0.0
+Total Similarity: 0.07856742013183862
+
+Similarities of Pull Request https://github.com/docker/docker/pull/18779 and Pull Request https://github.com/docker/docker/pull/18399
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.1419332389509149
+Added Words Similarity: 0.0
+Total Similarity: 0.04731107965030496
+
+Similarities of Pull Request https://github.com/JuliaLang/julia/pull/7696 and Pull Request https://github.com/JuliaLang/julia/pull/5299
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.16853296812356272
+Added Words Similarity: 0.036661778755338326
+Total Similarity: 0.06839824895963369
+
+Similarities of Pull Request https://github.com/hashicorp/terraform/pull/8440 and Pull Request https://github.com/hashicorp/terraform/pull/9569
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.061371641193221554
+Added Words Similarity: 0.06410607647560324
+Total Similarity: 0.041825905889608266
+
+Similarities of Pull Request https://github.com/docker/docker/pull/24872 and Pull Request https://github.com/docker/docker/pull/10018
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.10529962529853128
+Added Words Similarity: 0.08547476863413764
+Total Similarity: 0.06359146464422298
+
+Similarities of Pull Request https://github.com/ansible/ansible/pull/14788 and Pull Request https://github.com/ansible/ansible/pull/34717
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.16522803435465708
+Added Words Similarity: 0.0
+Total Similarity: 0.05507601145155236
+
+Similarities of Pull Request https://github.com/django/django/pull/8286 and Pull Request https://github.com/django/django/pull/6598
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.24019223070763068
+Added Words Similarity: 0
+Total Similarity: 0.08006407690254357
+
+Similarities of Pull Request https://github.com/ceph/ceph/pull/4670 and Pull Request https://github.com/ceph/ceph/pull/16570
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.1254363015010636
+Added Words Similarity: 0
+Total Similarity: 0.04181210050035453
+
+Similarities of Pull Request https://github.com/mozilla-b2g/gaia/pull/23973 and Pull Request https://github.com/mozilla-b2g/gaia/pull/26842
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.3779644730092272
+Added Words Similarity: 0.0
+Total Similarity: 0.1259881576697424
+
+Similarities of Pull Request https://github.com/servo/servo/pull/16979 and Pull Request https://github.com/servo/servo/pull/20695
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.43082021842766455
+Added Words Similarity: 0
+Total Similarity: 0.14360673947588817
+
+Similarities of Pull Request https://github.com/zendframework/zf2/pull/5329 and Pull Request https://github.com/zendframework/zf2/pull/2284
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.046524210519923545
+Added Words Similarity: 0.0
+Total Similarity: 0.015508070173307848
+
+Similarities of Pull Request https://github.com/nodejs/node/pull/1162 and Pull Request https://github.com/nodejs/node/pull/18066
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.12784297268860562
+Added Words Similarity: 0
+Total Similarity: 0.042614324229535205
+
+Similarities of Pull Request https://github.com/twbs/bootstrap/pull/12025 and Pull Request https://github.com/twbs/bootstrap/pull/24052
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.12361284651454937
+Added Words Similarity: 0.0
+Total Similarity: 0.041204282171516456
+
+Similarities of Pull Request https://github.com/pydata/pandas/pull/19328 and Pull Request https://github.com/pydata/pandas/pull/20278
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.26148818018424536
+Added Words Similarity: 0.0
+Total Similarity: 0.08716272672808179
+
+Similarities of Pull Request https://github.com/mozilla-b2g/gaia/pull/12914 and Pull Request https://github.com/mozilla-b2g/gaia/pull/25466
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.2581988897471611
+Added Words Similarity: 0.06711560552140243
+Total Similarity: 0.10843816508952119
+
+Similarities of Pull Request https://github.com/symfony/symfony-docs/pull/5114 and Pull Request https://github.com/symfony/symfony-docs/pull/7130
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.19215378456610457
+Added Words Similarity: 0.0
+Total Similarity: 0.06405126152203486
+
+Similarities of Pull Request https://github.com/twbs/bootstrap/pull/15072 and Pull Request https://github.com/twbs/bootstrap/pull/11963
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.1139901881468883
+Added Words Similarity: 0
+Total Similarity: 0.0379967293822961
+
+Similarities of Pull Request https://github.com/servo/servo/pull/7232 and Pull Request https://github.com/servo/servo/pull/17462
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.5457051563317492
+Added Words Similarity: 0.0
+Total Similarity: 0.18190171877724973
+
+Similarities of Pull Request https://github.com/kubernetes/kubernetes/pull/1035 and Pull Request https://github.com/kubernetes/kubernetes/pull/16624
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.0
+Added Words Similarity: 0.0
+Total Similarity: 0.0
+
+Similarities of Pull Request https://github.com/twbs/bootstrap/pull/12680 and Pull Request https://github.com/twbs/bootstrap/pull/6481
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.1767766952966369
+Added Words Similarity: 0.0
+Total Similarity: 0.05892556509887897
+
+Similarities of Pull Request https://github.com/kubernetes/kubernetes/pull/44915 and Pull Request https://github.com/kubernetes/kubernetes/pull/47694
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.27443809773977584
+Added Words Similarity: 0.0
+Total Similarity: 0.09147936591325861
+
+Similarities of Pull Request https://github.com/kubernetes/kubernetes/pull/37990 and Pull Request https://github.com/kubernetes/kubernetes/pull/6516
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.09100315103865801
+Added Words Similarity: 0.0
+Total Similarity: 0.03033438367955267
+
+Similarities of Pull Request https://github.com/mozilla-b2g/gaia/pull/8826 and Pull Request https://github.com/mozilla-b2g/gaia/pull/24556
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.1724137931034483
+Added Words Similarity: 0.21081851067789195
+Total Similarity: 0.12774410126044675
+
+Similarities of Pull Request https://github.com/saltstack/salt/pull/14769 and Pull Request https://github.com/saltstack/salt/pull/31877
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.08451542547285165
+Added Words Similarity: 0.0
+Total Similarity: 0.02817180849095055
+
+Similarities of Pull Request https://github.com/kubernetes/kubernetes/pull/26025 and Pull Request https://github.com/kubernetes/kubernetes/pull/8518
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.0
+Added Words Similarity: 0
+Total Similarity: 0.0
+
+Similarities of Pull Request https://github.com/pydata/pandas/pull/18496 and Pull Request https://github.com/pydata/pandas/pull/8793
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.13682694522264574
+Added Words Similarity: 0.15206808141609124
+Total Similarity: 0.09629834221291234
+
+Similarities of Pull Request https://github.com/twbs/bootstrap/pull/10962 and Pull Request https://github.com/twbs/bootstrap/pull/11722
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.09805806756909202
+Added Words Similarity: 0.0
+Total Similarity: 0.032686022523030676
+
+Similarities of Pull Request https://github.com/symfony/symfony-docs/pull/6220 and Pull Request https://github.com/symfony/symfony-docs/pull/8866
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.1539600717839002
+Added Words Similarity: 0.2
+Total Similarity: 0.1179866905946334
+
+Similarities of Pull Request https://github.com/twbs/bootstrap/pull/24618 and Pull Request https://github.com/twbs/bootstrap/pull/23385
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.14285714285714285
+Added Words Similarity: 0.0
+Total Similarity: 0.047619047619047616
+
+Similarities of Pull Request https://github.com/pydata/pandas/pull/17206 and Pull Request https://github.com/pydata/pandas/pull/8232
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.15795970073575796
+Added Words Similarity: 0.032478490123081544
+Total Similarity: 0.0634793969529465
+
+Similarities of Pull Request https://github.com/twbs/bootstrap/pull/20505 and Pull Request https://github.com/twbs/bootstrap/pull/11244
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.07647191129018725
+Added Words Similarity: 0.0
+Total Similarity: 0.025490637096729083
+
+Similarities of Pull Request https://github.com/zendframework/zf2/pull/2333 and Pull Request https://github.com/zendframework/zf2/pull/1724
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.05892556509887897
+Added Words Similarity: 0.11973686801784993
+Total Similarity: 0.05955414437224296
+
+Similarities of Pull Request https://github.com/pydata/pandas/pull/19975 and Pull Request https://github.com/pydata/pandas/pull/20550
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.709952292808831
+Added Words Similarity: 0.06350006350009525
+Total Similarity: 0.2578174521029754
+
+
+Duplicated Assumed for file input/random_nonduplicated_pairs.txt (threshold=0.1, count=8):
+
+ansible/ansible 24769 39266
+
+mozilla-b2g/gaia 23973 26842
+
+servo/servo 16979 20695
+
+mozilla-b2g/gaia 12914 25466
+
+servo/servo 7232 17462
+
+mozilla-b2g/gaia 8826 24556
+
+symfony/symfony-docs 6220 8866
+
+pydata/pandas 19975 20550
+
+
+
+NonDuplicated Assumed for file input/random_nonduplicated_pairs.txt (threshold=0.1, count=42):
+
+hashicorp/terraform 1304 15016
+
+JuliaLang/julia 25651 17576
+
+django/django 10161 6917
+
+elastic/elasticsearch 20207 30646
+
+django/django 5171 8133
+
+joomla/joomla-cms 12557 11093
+
+django/django 1147 6929
+
+elastic/elasticsearch 26896 19023
+
+django/django 9145 8212
+
+cocos2d/cocos2d-x 17051 12603
+
+ceph/ceph 5175 9200
+
+emberjs/ember.js 13618 11774
+
+cocos2d/cocos2d-x 1796 5307
+
+elastic/elasticsearch 31133 14286
+
+angular/angular.js 15966 14962
+
+ansible/ansible 27774 18366
+
+cocos2d/cocos2d-x 5834 7997
+
+docker/docker 18779 18399
+
+JuliaLang/julia 7696 5299
+
+hashicorp/terraform 8440 9569
+
+docker/docker 24872 10018
+
+ansible/ansible 14788 34717
+
+django/django 8286 6598
+
+ceph/ceph 4670 16570
+
+zendframework/zf2 5329 2284
+
+nodejs/node 1162 18066
+
+twbs/bootstrap 12025 24052
+
+pydata/pandas 19328 20278
+
+symfony/symfony-docs 5114 7130
+
+twbs/bootstrap 15072 11963
+
+kubernetes/kubernetes 1035 16624
+
+twbs/bootstrap 12680 6481
+
+kubernetes/kubernetes 44915 47694
+
+kubernetes/kubernetes 37990 6516
+
+saltstack/salt 14769 31877
+
+kubernetes/kubernetes 26025 8518
+
+pydata/pandas 18496 8793
+
+twbs/bootstrap 10962 11722
+
+twbs/bootstrap 24618 23385
+
+pydata/pandas 17206 8232
+
+twbs/bootstrap 20505 11244
+
+zendframework/zf2 2333 1724

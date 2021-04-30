@@ -1,0 +1,506 @@
+Similarities of Pull Request https://github.com/nodejs/node/pull/385 and Pull Request https://github.com/nodejs/node/pull/382
+Files Similarity: 1.0
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.282842712474619
+Added Words Similarity: 0.2
+Total Similarity: 0.4942809041582063
+
+Similarities of Pull Request https://github.com/symfony/symfony/pull/6905 and Pull Request https://github.com/symfony/symfony/pull/5410
+Files Similarity: 0.5
+Files Intersect: 2
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.25484077425859286
+Added Words Similarity: 0.03646624787447364
+Total Similarity: 0.2637690073776888
+
+Similarities of Pull Request https://github.com/symfony/symfony/pull/2934 and Pull Request https://github.com/symfony/symfony/pull/2797
+Files Similarity: 1.0
+Files Intersect: 2
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.4107142857142857
+Added Words Similarity: 0.6950480468569159
+Total Similarity: 0.7019207775237338
+
+Similarities of Pull Request https://github.com/nodejs/node/pull/5520 and Pull Request https://github.com/nodejs/node/pull/5519
+Files Similarity: 1.0
+Files Intersect: 2
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.2501851166488378
+Added Words Similarity: 0.2
+Total Similarity: 0.48339503888294594
+
+Similarities of Pull Request https://github.com/symfony/symfony/pull/8874 and Pull Request https://github.com/symfony/symfony/pull/8851
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.7414672991144712
+Added Words Similarity: 0
+Total Similarity: 0.2471557663714904
+
+Similarities of Pull Request https://github.com/nodejs/node/pull/9535 and Pull Request https://github.com/nodejs/node/pull/9482
+Files Similarity: 1.0
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.49852724275079074
+Added Words Similarity: 1.0
+Total Similarity: 0.8328424142502636
+
+Similarities of Pull Request https://github.com/symfony/symfony-docs/pull/4591 and Pull Request https://github.com/symfony/symfony-docs/pull/4545
+Files Similarity: 1.0
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.15130688316720062
+Added Words Similarity: 0.4036786188429868
+Total Similarity: 0.5183285006700625
+
+Similarities of Pull Request https://github.com/angular/angular.js/pull/4530 and Pull Request https://github.com/angular/angular.js/pull/4410
+Files Similarity: 1.0
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.4029114820126901
+Added Words Similarity: 1.0
+Total Similarity: 0.80097049400423
+
+Similarities of Pull Request https://github.com/angular/angular.js/pull/1851 and Pull Request https://github.com/angular/angular.js/pull/1701
+Files Similarity: 1.0
+Files Intersect: 2
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.19436506316151
+Added Words Similarity: 0.21769211195868737
+Total Similarity: 0.4706857250400658
+
+Similarities of Pull Request https://github.com/angular/angular.js/pull/13497 and Pull Request https://github.com/angular/angular.js/pull/13495
+Files Similarity: 1.0
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.3010926755335382
+Added Words Similarity: 0
+Total Similarity: 0.43369755851117936
+
+Similarities of Pull Request https://github.com/elastic/elasticsearch/pull/17271 and Pull Request https://github.com/elastic/elasticsearch/pull/17264
+Files Similarity: 1.0
+Files Intersect: 2
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.4789474720713997
+Added Words Similarity: 0.8036830424667041
+Total Similarity: 0.7608768381793679
+
+Similarities of Pull Request https://github.com/facebook/react/pull/8678 and Pull Request https://github.com/facebook/react/pull/8648
+Files Similarity: 0.2222222222222222
+Files Intersect: 2
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.2547719021193928
+Added Words Similarity: 0.0
+Total Similarity: 0.158998041447205
+
+Similarities of Pull Request https://github.com/nodejs/node/pull/7911 and Pull Request https://github.com/nodejs/node/pull/7745
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.3674234614174767
+Added Words Similarity: 0.2
+Total Similarity: 0.18914115380582555
+
+Similarities of Pull Request https://github.com/facebook/react/pull/520 and Pull Request https://github.com/facebook/react/pull/510
+Files Similarity: 0.1
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.15512630699850574
+Added Words Similarity: 0.0
+Total Similarity: 0.08504210233283525
+
+Similarities of Pull Request https://github.com/hashicorp/terraform/pull/9646 and Pull Request https://github.com/hashicorp/terraform/pull/8791
+Files Similarity: 0.25
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.165822779387697
+Added Words Similarity: 0.4502694926749482
+Total Similarity: 0.2886974240208817
+
+Similarities of Pull Request https://github.com/nodejs/node/pull/81 and Pull Request https://github.com/nodejs/node/pull/56
+Files Similarity: 0.5
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.30578831486257535
+Added Words Similarity: 0.0
+Total Similarity: 0.2685961049541918
+
+Similarities of Pull Request https://github.com/joomla/joomla-cms/pull/7274 and Pull Request https://github.com/joomla/joomla-cms/pull/7235
+Files Similarity: 0.3333333333333333
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.26111648393354675
+Added Words Similarity: 0.0
+Total Similarity: 0.19814993908896003
+
+Similarities of Pull Request https://github.com/joomla/joomla-cms/pull/11353 and Pull Request https://github.com/joomla/joomla-cms/pull/8039
+Files Similarity: 1.0
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.24811328764257062
+Added Words Similarity: 0.12909944487358058
+Total Similarity: 0.45907091083871704
+
+Similarities of Pull Request https://github.com/nodejs/node/pull/3568 and Pull Request https://github.com/nodejs/node/pull/3567
+Files Similarity: 0.3333333333333333
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.39223227027636803
+Added Words Similarity: 0.1404878717372541
+Total Similarity: 0.2886844917823185
+
+Similarities of Pull Request https://github.com/nodejs/node/pull/8923 and Pull Request https://github.com/nodejs/node/pull/3062
+Files Similarity: 1.0
+Files Intersect: 2
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.2554798301116468
+Added Words Similarity: 0.07293249574894728
+Total Similarity: 0.442804108620198
+
+Similarities of Pull Request https://github.com/nodejs/node/pull/6537 and Pull Request https://github.com/nodejs/node/pull/6536
+Files Similarity: 0.3157894736842105
+Files Intersect: 6
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.20361112415224888
+Added Words Similarity: 0.35690441704354675
+Total Similarity: 0.2921016716266687
+
+Similarities of Pull Request https://github.com/rails/rails/pull/20193 and Pull Request https://github.com/rails/rails/pull/20125
+Files Similarity: 0.25
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.34156502553198664
+Added Words Similarity: 0.3359355065735126
+Total Similarity: 0.3091668440351664
+
+Similarities of Pull Request https://github.com/nodejs/node/pull/12777 and Pull Request https://github.com/nodejs/node/pull/12316
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.5193081323719118
+Added Words Similarity: 0
+Total Similarity: 0.17310271079063724
+
+Similarities of Pull Request https://github.com/rails/rails/pull/18157 and Pull Request https://github.com/rails/rails/pull/11867
+Files Similarity: 0.25
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.4008918628686366
+Added Words Similarity: 0.18033392693348646
+Total Similarity: 0.27707526326737436
+
+Similarities of Pull Request https://github.com/rails/rails/pull/25976 and Pull Request https://github.com/rails/rails/pull/25921
+Files Similarity: 0.3333333333333333
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.19569842191603265
+Added Words Similarity: 0.23570226039551584
+Total Similarity: 0.25491133854829395
+
+Similarities of Pull Request https://github.com/cocos2d/cocos2d-x/pull/16620 and Pull Request https://github.com/cocos2d/cocos2d-x/pull/16384
+Files Similarity: 0.09090909090909091
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.0
+Added Words Similarity: 0.0
+Total Similarity: 0.030303030303030304
+
+Similarities of Pull Request https://github.com/django/django/pull/6207 and Pull Request https://github.com/django/django/pull/6088
+Files Similarity: 0.25
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.130945700219731
+Added Words Similarity: 0.0
+Total Similarity: 0.12698190007324367
+
+Similarities of Pull Request https://github.com/elastic/elasticsearch/pull/8373 and Pull Request https://github.com/elastic/elasticsearch/pull/7891
+Files Similarity: 0.008333333333333333
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.08746392856766495
+Added Words Similarity: 0.0
+Total Similarity: 0.031932420633666095
+
+Similarities of Pull Request https://github.com/rails/rails/pull/25240 and Pull Request https://github.com/rails/rails/pull/24741
+Files Similarity: 0.1
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.09774284999977502
+Added Words Similarity: 0.0
+Total Similarity: 0.06591428333325834
+
+Similarities of Pull Request https://github.com/rust-lang/rust/pull/7547 and Pull Request https://github.com/rust-lang/rust/pull/7494
+Files Similarity: 0.5
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.11566298639324804
+Added Words Similarity: 0.8150853987290841
+Total Similarity: 0.47691612837411074
+
+Similarities of Pull Request https://github.com/scikit-learn/scikit-learn/pull/6717 and Pull Request https://github.com/scikit-learn/scikit-learn/pull/1939
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.16311817434811104
+Added Words Similarity: 0.06679046745420285
+Total Similarity: 0.07663621393410464
+
+Similarities of Pull Request https://github.com/scikit-learn/scikit-learn/pull/3432 and Pull Request https://github.com/scikit-learn/scikit-learn/pull/3236
+Files Similarity: 0.5
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.3227486121839514
+Added Words Similarity: 0
+Total Similarity: 0.27424953739465047
+
+Similarities of Pull Request https://github.com/servo/servo/pull/11012 and Pull Request https://github.com/servo/servo/pull/11000
+Files Similarity: 0.5714285714285714
+Files Intersect: 4
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.6194224814505167
+Added Words Similarity: 0.07559289460184544
+Total Similarity: 0.4221479824936445
+
+Similarities of Pull Request https://github.com/servo/servo/pull/15914 and Pull Request https://github.com/servo/servo/pull/15904
+Files Similarity: 0.3333333333333333
+Files Intersect: 2
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.6666887004996231
+Added Words Similarity: 0.5417189183107053
+Total Similarity: 0.5139136507145539
+
+Similarities of Pull Request https://github.com/symfony/symfony-docs/pull/8008 and Pull Request https://github.com/symfony/symfony-docs/pull/7993
+Files Similarity: 1.0
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.0
+Added Words Similarity: 0.2
+Total Similarity: 0.39999999999999997
+
+Similarities of Pull Request https://github.com/twbs/bootstrap/pull/21770 and Pull Request https://github.com/twbs/bootstrap/pull/21739
+Files Similarity: 0.3333333333333333
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.157485197087178
+Added Words Similarity: 0
+Total Similarity: 0.16360617680683712
+
+Similarities of Pull Request https://github.com/angular/angular.js/pull/5080 and Pull Request https://github.com/angular/angular.js/pull/3376
+Files Similarity: 1.0
+Files Intersect: 2
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.28690229202651557
+Added Words Similarity: 0.7071067811865475
+Total Similarity: 0.664669691071021
+
+Similarities of Pull Request https://github.com/angular/angular.js/pull/9917 and Pull Request https://github.com/angular/angular.js/pull/9265
+Files Similarity: 0.4
+Files Intersect: 2
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.19977814746360806
+Added Words Similarity: 0.03627381250550058
+Total Similarity: 0.21201731998970288
+
+Similarities of Pull Request https://github.com/angular/angular.js/pull/2439 and Pull Request https://github.com/angular/angular.js/pull/2060
+Files Similarity: 0.5
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.18887686585995425
+Added Words Similarity: 0.0
+Total Similarity: 0.22962562195331807
+
+Similarities of Pull Request https://github.com/ansible/ansible/pull/11740 and Pull Request https://github.com/ansible/ansible/pull/8694
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.14708710135363803
+Added Words Similarity: 0.09534625892455924
+Total Similarity: 0.08081112009273243
+
+Similarities of Pull Request https://github.com/ansible/ansible/pull/25039 and Pull Request https://github.com/ansible/ansible/pull/24654
+Files Similarity: 0.5
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.3911408093753911
+Added Words Similarity: 0.0
+Total Similarity: 0.2970469364584637
+
+Similarities of Pull Request https://github.com/ceph/ceph/pull/14578 and Pull Request https://github.com/ceph/ceph/pull/14548
+Files Similarity: 0.125
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.1328422328310143
+Added Words Similarity: 0.0
+Total Similarity: 0.08594741094367142
+
+Similarities of Pull Request https://github.com/ceph/ceph/pull/9393 and Pull Request https://github.com/ceph/ceph/pull/9367
+Files Similarity: 0.5
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.051708768999501914
+Added Words Similarity: 0.2
+Total Similarity: 0.2505695896665006
+
+Similarities of Pull Request https://github.com/ceph/ceph/pull/6250 and Pull Request https://github.com/ceph/ceph/pull/6108
+Files Similarity: 1.0
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.08944271909999159
+Added Words Similarity: 0.0
+Total Similarity: 0.3631475730333305
+
+Similarities of Pull Request https://github.com/docker/docker/pull/10126 and Pull Request https://github.com/docker/docker/pull/10005
+Files Similarity: 0.4
+Files Intersect: 2
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.14350946197048195
+Added Words Similarity: 0.0
+Total Similarity: 0.18116982065682732
+
+Similarities of Pull Request https://github.com/docker/docker/pull/7946 and Pull Request https://github.com/docker/docker/pull/7945
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.14285714285714285
+Added Words Similarity: 0.0
+Total Similarity: 0.047619047619047616
+
+Similarities of Pull Request https://github.com/dotnet/corefx/pull/4160 and Pull Request https://github.com/dotnet/corefx/pull/4157
+Files Similarity: 0.25
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.11778571185788637
+Added Words Similarity: 0.448358830654244
+Total Similarity: 0.27204818083737675
+
+Similarities of Pull Request https://github.com/facebook/react/pull/5961 and Pull Request https://github.com/facebook/react/pull/5960
+Files Similarity: 1.0
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.31622776601683794
+Added Words Similarity: 0.3380617018914066
+Total Similarity: 0.5514298226360815
+
+Similarities of Pull Request https://github.com/facebook/react/pull/7515 and Pull Request https://github.com/facebook/react/pull/7081
+Files Similarity: 0.75
+Files Intersect: 3
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.25
+Added Words Similarity: 0.0
+Total Similarity: 0.3333333333333333
+
+Similarities of Pull Request https://github.com/joomla/joomla-cms/pull/2612 and Pull Request https://github.com/joomla/joomla-cms/pull/2596
+Files Similarity: 1.0
+Files Intersect: 1
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.13530201829834768
+Added Words Similarity: 0
+Total Similarity: 0.37843400609944927
+
+
+Duplicated Assumed for file input/random_duplicated_pairs.txt (threshold=0.1, count=42):
+
+nodejs/node	385	382
+
+symfony/symfony	6905	5410
+
+symfony/symfony	2934	2797
+
+nodejs/node	5520	5519
+
+symfony/symfony	8874	8851
+
+nodejs/node	9535	9482
+
+symfony/symfony-docs	4591	4545
+
+angular/angular.js	4530	4410
+
+angular/angular.js	1851	1701
+
+angular/angular.js	13497	13495
+
+elastic/elasticsearch	17271	17264
+
+facebook/react	8678	8648
+
+nodejs/node	7911	7745
+
+hashicorp/terraform	9646	8791
+
+nodejs/node	81	56
+
+joomla/joomla-cms	7274	7235
+
+joomla/joomla-cms	11353	8039
+
+nodejs/node	3568	3567
+
+nodejs/node	8923	3062
+
+nodejs/node	6537	6536
+
+rails/rails	20193	20125
+
+nodejs/node	12777	12316
+
+rails/rails	18157	11867
+
+rails/rails	25976	25921
+
+django/django	6207	6088
+
+rust-lang/rust	7547	7494
+
+scikit-learn/scikit-learn	3432	3236
+
+servo/servo	11012	11000
+
+servo/servo	15914	15904
+
+symfony/symfony-docs	8008	7993
+
+twbs/bootstrap	21770	21739
+
+angular/angular.js	5080	3376
+
+angular/angular.js	9917	9265
+
+angular/angular.js	2439	2060
+
+ansible/ansible	25039	24654
+
+ceph/ceph	9393	9367
+
+ceph/ceph	6250	6108
+
+docker/docker	10126	10005
+
+dotnet/corefx	4160	4157
+
+facebook/react	5961	5960
+
+facebook/react	7515	7081
+
+joomla/joomla-cms	2612	2596
+
+
+
+NonDuplicated Assumed for file input/random_duplicated_pairs.txt (threshold=0.1, count=8):
+
+facebook/react	520	510
+
+cocos2d/cocos2d-x	16620	16384
+
+elastic/elasticsearch	8373	7891
+
+rails/rails	25240	24741
+
+scikit-learn/scikit-learn	6717	1939
+
+ansible/ansible	11740	8694
+
+ceph/ceph	14578	14548
+
+docker/docker	7946	7945
