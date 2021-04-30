@@ -24,10 +24,10 @@ def compute_duplications(file_path, threshold=0.5):
                 duplicates.append(line)
             else:
                 not_duplicates.append(line)
-    print(f"\n\nDuplicated Assumed for file {file_path}:\n")
+    print(f"\n\nDuplicated Assumed for file {file_path} (threshold={threshold}, count={len(duplicates)}):\n")
     for dup in duplicates:
         print(dup)
-    print(f"\n\nNonDuplicated Assumed for file {file_path}:\n")
+    print(f"\n\nNonDuplicated Assumed for file {file_path} (threshold={threshold}, count={len(not_duplicates)}):\n")
     for dup in not_duplicates:
         print(dup)
     return duplicates, not_duplicates
