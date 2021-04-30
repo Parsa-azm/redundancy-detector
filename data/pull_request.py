@@ -1,5 +1,8 @@
-from github import Github
+import re
 
+import requests
+from bs4 import BeautifulSoup
+from github import Github
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
@@ -10,10 +13,12 @@ sw = stopwords.words('english')
 class PullRequest:
     changed_files_names: set
     textual_tokens: set
+    issue_ids: set
 
     def __init__(self, repo, number):
+        self.repo_name = repo
         self.repo = git.get_repo(repo)
-        self.number = number
+        self.pr_number = number
         self.pull_request = self.repo.get_pull(number)
 
     def set_changed_files(self):
@@ -26,6 +31,29 @@ class PullRequest:
         tokens = word_tokenize(text)
         tokens_set = {w for w in tokens if w not in sw}
         return tokens_set
+
+    def set_issues(self):
+        title_words = self.pull_request.title.split(" ")
+        counter = 0
+        # Simplest check I could do! just checking whether there is a numeric in first 3 words of the PR issue title or
+        # not. It will not be harmful if there exists a number other than issue id, since most probably that number will
+        # not exist in other pr titles and if it does, there maybe a duplication too. As Simple as I Could!
+        for word in title_words:
+            if word.isnumeric():
+                self.issue_ids.add(word)
+            counter += 1
+            if counter > 3:
+                break
+
+        # Check for existence of GitHub Issue Tracker
+        r = requests.get(f"https://github.com/{self.repo_name}/pull/{self.pr_number}")
+        if r.status_code != 200:
+            return
+        soup = BeautifulSoup(r.text, 'html.parser')
+        issue_form = soup.find("form", {"aria-label": re.compile('Link issues')})
+        issues_links = [i["href"] for i in issue_form.find_all("a")]
+        for issue_link in issues_links:
+            self.issue_ids.add(issue_link.split("/")[-1])
 
     def text_tokenize(self):
         title_tokens = self.tokenize(self.pull_request.title)
