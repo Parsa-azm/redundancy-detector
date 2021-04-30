@@ -1,0 +1,191 @@
+Similarities of Pull Request https://github.com/mozilla-b2g/gaia/pull/14437 and Pull Request https://github.com/mozilla-b2g/gaia/pull/8218
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.09925833339709302
+Added Words Similarity: 0.0
+Total Similarity: 0.033086111132364336
+
+Similarities of Pull Request https://github.com/mozilla-b2g/gaia/pull/7172 and Pull Request https://github.com/mozilla-b2g/gaia/pull/8917
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.055048188256318034
+Added Words Similarity: 0.0
+Total Similarity: 0.018349396085439344
+
+Similarities of Pull Request https://github.com/kubernetes/kubernetes/pull/56945 and Pull Request https://github.com/kubernetes/kubernetes/pull/23136
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.051031036307982884
+Added Words Similarity: 0.0
+Total Similarity: 0.017010345435994296
+
+Similarities of Pull Request https://github.com/kubernetes/kubernetes/pull/1262 and Pull Request https://github.com/kubernetes/kubernetes/pull/50840
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.05393598899705937
+Added Words Similarity: 0.06804138174397717
+Total Similarity: 0.04065912358034551
+
+Similarities of Pull Request https://github.com/nodejs/node/pull/4143 and Pull Request https://github.com/nodejs/node/pull/2100
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.2211629342323457
+Added Words Similarity: 0.048795003647426664
+Total Similarity: 0.08998597929325745
+
+Similarities of Pull Request https://github.com/nodejs/node/pull/290 and Pull Request https://github.com/nodejs/node/pull/8552
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.10479250341244921
+Added Words Similarity: 0.02278028445007573
+Total Similarity: 0.04252426262084164
+
+Similarities of Pull Request https://github.com/pydata/pandas/pull/15548 and Pull Request https://github.com/pydata/pandas/pull/7572
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.1475422227126635
+Added Words Similarity: 0.13074409009212268
+Total Similarity: 0.09276210426826208
+
+Similarities of Pull Request https://github.com/pydata/pandas/pull/19848 and Pull Request https://github.com/pydata/pandas/pull/17512
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.061898446059017294
+Added Words Similarity: 0.0
+Total Similarity: 0.020632815353005766
+
+Similarities of Pull Request https://github.com/rust-lang/rust/pull/49429 and Pull Request https://github.com/rust-lang/rust/pull/44073
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.09534625892455924
+Added Words Similarity: 0.0
+Total Similarity: 0.031782086308186415
+
+Similarities of Pull Request https://github.com/rust-lang/rust/pull/10344 and Pull Request https://github.com/rust-lang/rust/pull/9644
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.04264014327112208
+Added Words Similarity: 0.15181442305531792
+Total Similarity: 0.06481818877548
+
+Similarities of Pull Request https://github.com/saltstack/salt/pull/36357 and Pull Request https://github.com/saltstack/salt/pull/40038
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.22190634114964863
+Added Words Similarity: 0.0
+Total Similarity: 0.0739687803832162
+
+Similarities of Pull Request https://github.com/saltstack/salt/pull/11409 and Pull Request https://github.com/saltstack/salt/pull/38621
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.137360563948689
+Added Words Similarity: 0.0
+Total Similarity: 0.045786854649563
+
+Similarities of Pull Request https://github.com/scikit-learn/scikit-learn/pull/3850 and Pull Request https://github.com/scikit-learn/scikit-learn/pull/11073
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.06835859270246633
+Added Words Similarity: 0
+Total Similarity: 0.022786197567488776
+
+Similarities of Pull Request https://github.com/scikit-learn/scikit-learn/pull/5141 and Pull Request https://github.com/scikit-learn/scikit-learn/pull/5167
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.028116077855776665
+Added Words Similarity: 0.04130521405391931
+Total Similarity: 0.023140430636565328
+
+Similarities of Pull Request https://github.com/servo/servo/pull/18993 and Pull Request https://github.com/servo/servo/pull/10249
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.6257111957900842
+Added Words Similarity: 0.05584718777222607
+Total Similarity: 0.22718612785410341
+
+Similarities of Pull Request https://github.com/servo/servo/pull/13696 and Pull Request https://github.com/servo/servo/pull/19813
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.4949912224043368
+Added Words Similarity: 0.0
+Total Similarity: 0.16499707413477893
+
+Similarities of Pull Request https://github.com/symfony/symfony/pull/10064 and Pull Request https://github.com/symfony/symfony/pull/19758
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.7286120888626996
+Added Words Similarity: 0.02519763153394848
+Total Similarity: 0.25126990679888267
+
+Similarities of Pull Request https://github.com/symfony/symfony/pull/22291 and Pull Request https://github.com/symfony/symfony/pull/19926
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.647150228929434
+Added Words Similarity: 0.0
+Total Similarity: 0.215716742976478
+
+Similarities of Pull Request https://github.com/symfony/symfony-docs/pull/2430 and Pull Request https://github.com/symfony/symfony-docs/pull/8603
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.08084520834544433
+Added Words Similarity: 0.10998533626601498
+Total Similarity: 0.0636101815371531
+
+Similarities of Pull Request https://github.com/symfony/symfony-docs/pull/5561 and Pull Request https://github.com/symfony/symfony-docs/pull/5630
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.40219983326992187
+Added Words Similarity: 0.0
+Total Similarity: 0.13406661108997395
+
+Similarities of Pull Request https://github.com/twbs/bootstrap/pull/16359 and Pull Request https://github.com/twbs/bootstrap/pull/15334
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.05609927134532144
+Added Words Similarity: 0
+Total Similarity: 0.018699757115107147
+
+Similarities of Pull Request https://github.com/twbs/bootstrap/pull/15885 and Pull Request https://github.com/twbs/bootstrap/pull/25785
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.10369516947304253
+Added Words Similarity: 0
+Total Similarity: 0.03456505649101418
+
+Similarities of Pull Request https://github.com/zendframework/zf2/pull/1513 and Pull Request https://github.com/zendframework/zf2/pull/5486
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.0601929265428846
+Added Words Similarity: 0.07813983916059349
+Total Similarity: 0.04611092190115936
+
+Similarities of Pull Request https://github.com/zendframework/zf2/pull/7478 and Pull Request https://github.com/zendframework/zf2/pull/4280
+Files Similarity: 0.0
+Files Intersect: 0
+Issues Similarity: UNKNOWN
+Textual (Title and Description) Similarity: 0.0
+Added Words Similarity: 0
+Total Similarity: 0.0
